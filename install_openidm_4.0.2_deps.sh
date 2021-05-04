@@ -64,7 +64,6 @@ install_pom "org/forgerock/commons/forgerock-utilities/3.0.2/forgerock-utilities
 install_pom "org/forgerock/commons/commons-bom/21.0.0-alpha-12/commons-bom-21.0.0-alpha-12.pom"
 install_pom "org/forgerock/commons/commons-bom/21.0.0-alpha-23/commons-bom-21.0.0-alpha-23.pom"
 install_pom "org/forgerock/commons/commons-bom/21.0.0-alpha-17/commons-bom-21.0.0-alpha-17.pom"
-install_pom "org/forgerock/http/forgerock-http-framework-parent/3.0.1/forgerock-http-framework-parent-3.0.1.pom"
 install_pom "org/forgerock/http/forgerock-http-framework/3.0.1/forgerock-http-framework-3.0.1.pom"
 install_pom "org/forgerock/commons/ui/forgerock-ui/11.0.1/forgerock-ui-11.0.1.pom"
 install_pom "org/forgerock/commons/commons-parent/21.0.0-alpha-23/commons-parent-21.0.0-alpha-23.pom"
